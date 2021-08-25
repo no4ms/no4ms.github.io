@@ -24,7 +24,6 @@
 
 ![Alt text](https://note.youdao.com/yws/api/personal/file/WEBe48db413973391795df219492adafe13?method=download&shareKey=2a614f2d2bd0ba0b09b2fe976b06a8bb "optional title")
 
-![Alt text](https://note.youdao.com/yws/api/personal/file/WEB00b695e7b7871ed6c7cc0440c6d7c6d7?method=getImage&version=29&cstk=ek5-1-1q "optional title")
 
 
 ### 微机课必备软件/游戏
