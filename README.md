@@ -12,8 +12,19 @@
 
 
 ### 校园风情
+
 ![Alt text](https://bkimg.cdn.bcebos.com/pic/dcc451da81cb39dbb6fd288197591e24ab18962b9a9f?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg "optional title")
 
+
+### 特色人物
+
+![Alt text](https://note.youdao.com/yws/api/personal/file/WEB652912b2228085f8e0f0a981ea1d442d?method=download&shareKey=36a51c5e533f517336c1b3b78432b3f0 "optional title")
+
+![Alt text](https://note.youdao.com/yws/api/personal/file/WEB9fbefc1d63dbdf0e3c4566ea330a4d00?method=download&shareKey=5b529dfbe67264be3eed471c1d8908cd "optional title")
+
+![Alt text](https://note.youdao.com/yws/api/personal/file/WEBe48db413973391795df219492adafe13?method=download&shareKey=2a614f2d2bd0ba0b09b2fe976b06a8bb "optional title")
+
+![Alt text](https://note.youdao.com/yws/api/personal/file/WEB00b695e7b7871ed6c7cc0440c6d7c6d7?method=getImage&version=29&cstk=ek5-1-1q "optional title")
 
 
 ### 微机课必备软件/游戏
